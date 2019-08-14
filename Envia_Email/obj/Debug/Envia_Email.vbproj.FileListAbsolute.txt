@@ -1,0 +1,11 @@
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\bin\Debug\Envia_Email.exe.config
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\bin\Debug\Envia_Email.exe
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\bin\Debug\Envia_Email.pdb
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\bin\Debug\Envia_Email.xml
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.Form1.resources
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.Resources.resources
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.vbproj.GenerateResource.Cache
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.exe
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.xml
+c:\users\danielle\documents\visual studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.pdb
+C:\Users\Danielle\Documents\Visual Studio 2015\Projects\Envia_Email\Envia_Email\obj\Debug\Envia_Email.vbprojResolveAssemblyReference.cache
